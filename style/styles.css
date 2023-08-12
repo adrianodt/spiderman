@@ -36,7 +36,7 @@ header {
     overflow: hidden;
     border-radius: 10px 10px 0px 0px;
     
-    background-image: url("/spiderman/img/spiderfondo2.jpg");
+    background-image: url("/img/spiderfondo2.jpg");
     background-size: 100px;
     -webkit-animation: slidein 100s;
     animation: slidein 100s;
@@ -92,7 +92,7 @@ header {
 }
 
 main {
-    background-image: url("/spiderman/img/spiderfondo.jpg");
+    background-image: url("/img/spiderfondo.jpg");
     background-repeat: no-repeat;
     background-size: 1000px;
     background-position: center;
